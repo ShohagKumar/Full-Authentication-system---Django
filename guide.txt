@@ -1,0 +1,9 @@
+need to path the app in the project urls.py
+
+like
+path('account/', include('account.urls')),
+
+and config account in setting app info.
+
+need to modify the templates according your templates
+
